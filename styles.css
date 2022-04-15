@@ -23,7 +23,7 @@ body{
     display: flex;
     justify-content: space-between;
 }
-.display{
+.value{
     font-size: 130px;
     font-weight: 300;
     margin-bottom: 20px;
